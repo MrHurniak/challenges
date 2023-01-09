@@ -1,0 +1,21 @@
+.navigation {
+    border: 3px solid rgba(3, 102, 214, 0.3);
+}
+
+.heading {
+    display: flex;
+    justify-content: center;
+}
+
+.item {
+    cursor: pointer;
+}
+
+.elementList {
+    padding: 0 1em;
+}
+
+.selected {
+    font-weight: bold;
+}
+
